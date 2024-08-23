@@ -12,7 +12,7 @@ module.exports = {
 
 
 
-  h-1/2 lg:h-full w-1/2 lg:w-full ml-40 lg:ml-96
+ 
 
 
 
